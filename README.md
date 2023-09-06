@@ -1,6 +1,6 @@
 # go-strip-markdown
 
-[![GoDoc](https://godoc.org/github.com/writeas/go-strip-markdown?status.svg)](https://godoc.org/github.com/writeas/go-strip-markdown)
+[![GoDoc](https://godoc.org/github.com/adityathebe/go-strip-markdown?status.svg)](https://godoc.org/github.com/adityathebe/go-strip-markdown)
 
 A Markdown stripper written in Go (golang).
 
@@ -12,7 +12,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/writeas/go-strip-markdown"
+	"github.com/adityathebe/go-strip-markdown"
 	"os"
 )
 
@@ -45,7 +45,7 @@ This was largely based off of [remove-markdown](https://github.com/stiang/remove
 
 This library is used in these projects:
 
-* [WriteFreely](https://github.com/writeas/writefreely)
+* [WriteFreely](https://github.com/adityathebe/writefreely)
 
 ## License
 MIT.

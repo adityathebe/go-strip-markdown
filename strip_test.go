@@ -116,7 +116,7 @@ You can even share code stuff.`
 func ExampleStrip() {
 	fmt.Println(Strip(`# Hello, world!
 
-This is [a Go library](https://github.com/writeas/go-strip-markdown) for stripping **Markdown** from _any_ text.`))
+This is [a Go library](https://github.com/adityathebe/go-strip-markdown) for stripping **Markdown** from _any_ text.`))
 
 	// Output:
 	// Hello, world!

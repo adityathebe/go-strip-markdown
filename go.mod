@@ -1,3 +1,3 @@
-module github.com/writeas/go-strip-markdown/v2
+module github.com/adityathebe/go-strip-markdown/v2
 
 go 1.13

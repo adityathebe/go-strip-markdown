@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	stripmd "github.com/writeas/go-strip-markdown/v2"
+	stripmd "github.com/adityathebe/go-strip-markdown/v2"
 )
 
 func main() {
